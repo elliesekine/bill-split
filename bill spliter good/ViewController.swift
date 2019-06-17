@@ -182,7 +182,6 @@ class ViewController: UIViewController{
         tipLabelString = ""
         labelString = ""
         billLabelString = ""
-
         updateTipAmtLabel()
         updateTotalLabel()
         updateTipLabel()
